@@ -1,0 +1,1 @@
+# MedisortAI---Smart-Medical-Waste-Segregation
